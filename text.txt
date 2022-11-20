@@ -43,8 +43,15 @@ It will deliver the HTML to the user, so that the user will be able to interact 
 Now, we need to create a server because the purpose of using Node Js, is to create the server
 So to create the server, we are going to use express
 So we will import express
+and create an server
+
+Step5:
+We need to deliver the HTML to the user.
+so we need to render an HTML page instead of just an random message.
 
 
+Step7:
+Test HTML
 
 
 
